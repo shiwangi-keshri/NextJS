@@ -1,2 +1,2 @@
 # NextJS
-This is for Next JS Project
+This is for Next JS Project- changes done
